@@ -1,0 +1,1 @@
+gtd=read.csv("globalTerrorism.csv")
